@@ -1,0 +1,228 @@
+Networking in Google Cloud Specialization
+Two Speed IT: How Companies Can Surf the Digital Wave, a BCG Perspective
+Fundamentals of Network Communication
+Design a User Experience for Social Good & Prepare for Jobs
+Building Database Applications in PHP
+Web Design: Wireframes to Prototypes
+Build Wireframes and Low-Fidelity Prototypes
+Introduction to C# Programming and Unity
+Virtual Reality Specialization
+C++ Programming for Unreal Game Development Specialization
+Game Design and Development with Unity 2020 Specialization
+Interaction Design Specialization
+Digital Product Management Specialization
+Web Design for Everybody: Basics of Web Development & Coding Specialization
+Google UX Design Professional Certificate
+Foundations of User Experience (UX) Design
+Google UX Design Professional Certificate
+Fundamentals of Graphic Design
+HTML, CSS, and Javascript for Web Developers
+Agile Analytics
+Building AI Powered Chatbots Without Programming
+Real-World Product Management Specialization
+User Experience Research and Design Specialization
+Client Needs and Software Requirements
+Evaluating User Interfaces
+Introduction to UI Design
+Interaction Design Specialization
+Networking
+Fundamentals of Computer Network Security Specialization
+Introduction to Networking and Storage
+Creando una aplicaciÃ³n con Stellar SDK
+Crea y vende tus NFT en marketplace
+DiseÃ±ando tarjetas de presentaciÃ³n en Adobe Illustrator
+Computer Security and Systems Management Specialization
+Introduction to Cyber Security Specialization
+Google IT Support Professional Certificate
+Networking in Google Cloud: Defining and Implementing Networks
+Los bits y bytes de las redes informÃ¡ticas
+Estrutura e Funcionamento das Redes de Computadores
+Seluk Beluk Jaringan Komputer
+Networking in Google Cloud æ—¥æœ¬èªžç‰ˆ Specialization
+Cloud Application Development Foundations Specialization
+The Bits and Bytes of Computer Networking
+Networking in Google Cloud Specialization
+AWS Cloud Technical Essentials
+Cloud Application Development Foundations Specialization
+The Bits and Bytes of Computer Networking
+Site Reliability Engineering: Measuring and Managing Reliability
+Continuous Delivery & DevOps
+Introduction to Hardware and Operating Systems
+IT Support Google Professional Certificate
+Sistem Operasi dan Anda: Menjadi Pengguna yang Berdaya
+Dasar-Dasar Dukungan Teknis
+Fundamentos do Suporte TÃ©cnico
+Palo Alto Networks Cybersecurity Professional Certificate
+Oracle Cloud Infrastructure Foundations
+Juniper Networks Junos Platform Automation and DevOps Specialization
+IBM Technical Support  Professional Certificate
+Technical Support Fundamentals
+Google IT Automation with Python Professional Certificate
+IBM DevOps and Software Engineering Professional Certificate
+Google IT Support Professional Certificate
+Crash Course on Python
+Google IT Automation with Python Professional Certificate
+Technical Support Fundamentals
+Google IT Support Professional Certificate
+Enterprise System Management and Security
+Customer Service Fundamentals
+Using Python to Interact with the Operating System
+Informationâ€‹ â€‹Systems Specialization
+The Data Scientistâ€™s Toolbox
+Natural Language Processing Specialization
+Analyze Network Traffic with TCPDump
+Configurer un pare-feu avec UFW sous Linux
+Computer Security and Systems Management Specialization
+Introduction to Cyber Security Specialization
+Google IT Support Professional Certificate
+Sistem Operasi dan Anda: Menjadi Pengguna yang Berdaya
+Essential Cloud Infrastructure: Foundation dalam bahasa Indonesia
+Keamanan IT: Pertahanan terhadap Kejahatan Digital
+IT Fundamentals for Cybersecurity Specialization
+Architecting with Google Kubernetes Engine Specialization
+Architecting with Google Compute Engine Specialization
+Google IT Support Professional Certificate
+Architecting with Google Kubernetes Engine Specialization
+Architecting with Google Compute Engine Specialization
+Bitcoin and Cryptocurrency Technologies
+Google IT Support Professional Certificate
+Cybersecurity: Developing a Program for Your Business Specialization
+Informationâ€‹ â€‹Systems Specialization
+Cybersecurity for Business Specialization
+Data Structures and Algorithms Specialization
+Algorithms Specialization
+Machine Learning Engineering for Production (MLOps) Specialization
+Differential Equations for Engineers
+Advanced Statistics for Data Science Specialization
+Precalculus through Data and Modelling Specialization
+Mathematics for Engineers Specialization
+Differential Equations for Engineers
+Matrix Algebra for Engineers
+Contenido de las matemÃ¡ticas de primaria
+Calculus: Single Variable Part 1 - Functions
+Vector Calculus for Engineers
+Fibonacci Numbers and the Golden Ratio
+Matrix Algebra for Engineers
+Game Theory
+SQL for Data Science
+The Data Scientistâ€™s Toolbox
+Mathematics for Machine Learning Specialization
+Introduction to Mathematical Thinking
+Game Theory
+SQL for Data Science
+Understanding Research Methods
+Computational Fluid Mechanics - Airflow Around a Spoiler
+Meta Front-End Developer Professional Certificate
+Excel Basics for Data Analysis
+Essential Cloud Infrastructure: Core Services dalam bahasa Indonesia
+El Abogado del Futuro: Legaltech y la TransformaciÃ³n Digital del Derecho
+Google Cloud Fundamentals: Core Infrastructure dalam bahasa Indonesia
+Essential Cloud Infrastructure: Foundation dalam bahasa Indonesia
+Mastering the Software Engineering Interview
+Introduction to Software Product Management
+Hypothesis-Driven Development
+Agile Project Management
+Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
+Google IT Automation with Python Professional Certificate
+IBM Full Stack Software Developer Professional Certificate
+Key Technologies for Business Specialization
+Preparing for Google Cloud Certification: Cloud Architect Professional Certificate
+Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
+Google IT Automation with Python Professional Certificate
+Key Technologies for Business Specialization
+Hybrid Cloud Service Mesh with Anthos
+Big Data Analytical Platform on Alibaba Cloud
+Amazon DynamoDB: Building NoSQL Database-Driven Applications
+Cloud Systems Software
+Programming Foundations with JavaScript, HTML and CSS
+Programming for Everybody (Getting Started with Python)
+Meta Back-End Developer Professional Certificate
+Excel to MySQL: Analytic Techniques for Business Specialization
+Excel Skills for Business: Essentials
+Share Data Through the Art of Visualization
+What is Corruption: Anti-Corruption and Compliance
+Effective Compliance Programs
+Excel Skills for Business: Intermediate I
+Agile Meets Design Thinking
+How to Manage a Remote Team
+Budgeting and Scheduling Projects
+Project Initiation: Starting a Successful Project
+Career Success Specialization
+Successful Negotiation: Essential Strategies and Skills
+Improve Your English Communication Skills Specialization
+English for Career Development
+Cybersecurity: Developing a Program for Your Business Specialization
+Informationâ€‹ â€‹Systems Specialization
+Cybersecurity for Business Specialization
+Communication Strategies for a Virtual Age
+Improve Your English Communication Skills Specialization
+Good with Words: Speaking and Presenting Specialization
+Storytelling and influencing: Communicate with impact
+User-Experience: Create a Storyboard using Storyboarder
+How to Visualize Research Data in Tableau
+Transferencia tecnolÃ³gica: De la investigaciÃ³n al mercado.
+Excel/VBA for Creative Problem Solving, Part 1
+Experimentation for Improvement
+Excel/VBA for Creative Problem Solving, Part 2
+Being a researcher (in Information Science and Technology)
+Ethics, Technology and Engineering
+Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python
+Simulation and modeling of natural processes
+Quantitative Methods
+Understanding Research Methods
+Plant Bioinformatic Methods Specialization
+Cybersecurity Specialization
+Quantitative Methods
+Excel/VBA for Creative Problem Solving, Part 1
+Cybersecurity Specialization
+Chemistry
+How Things Work: An Introduction to Physics
+Excel Fundamentals for Data Analysis
+Introduction to advanced tomography
+Quantum Optics 1 : Single Photons
+Spacecraft Dynamics Capstone: Mars Mission
+Kinematics: Describing the Motions of Spacecraft
+Linearer & Nichtlineare Finite Elemente Analyse mit SimScale
+Netzkonvergenzstudien in der Finiten Elemente Methode
+Astro 101: Black Holes
+Astrobiology: Exploring Other Worlds
+Understanding Einstein: The Special Theory of Relativity
+Kinematics: Describing the Motions of Spacecraft
+Analyzing the Universe
+Imagining Other Earths
+Data-driven Astronomy
+Astrobiology: Exploring Other Worlds
+Big History: Connecting Knowledge
+How Things Work: An Introduction to Physics
+Astronomy: Exploring Time and Space
+Understanding Einstein: The Special Theory of Relativity
+Big History: Connecting Knowledge
+Understanding Einstein: The Special Theory of Relativity
+Astronomy: Exploring Time and Space
+Introduction to Probability and Data with R
+The Data Scientistâ€™s Toolbox
+Google Data Analytics Professional Certificate
+Data Visualization in Excel
+Excel Skills for Business: Intermediate I
+Spatial Analysis and Satellite Imagery in a GIS
+Data Analytics Methods for Marketing
+Excel Skills for Business: Essentials
+Customer Analytics
+AI Fundamentals for Non-Data Scientists
+Ask Questions to Make Data-Driven Decisions
+Applied Data Science with Python Specialization
+IBM Data Analyst Professional Certificate
+Assess for Success: Marketing Analytics and Measurement
+Data Science Fundamentals with Python and SQL Specialization
+Introduction to Data Science Specialization
+IBM Data Science Professional Certificate
+Google Data Analytics Professional Certificate
+Google Data Analytics Professional Certificate
+Data Science: Foundations using R Specialization
+IBM Data Science Professional Certificate
+Data Science Specialization
+Introduction to Physical Chemistry
+Introduction to Chemistry:  Structures and Solutions
+Data Science Specialization
+Introduction to Physical Chemistry
+Introduction to Chemistry:  Structures and Solutions

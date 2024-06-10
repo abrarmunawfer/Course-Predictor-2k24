@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="stylesheet" href="static/css/styles.css">
+  <title>Predict AI</title>
+  <script src="https://smtpjs.com/v3/smtp.js"></script>
+  
+  
+  <style>
+  /* Add common styling for all pages */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('images/background.jpg');
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333300;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  font-family: Fontfabric;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: rgba(127, 127, 0, .4);
+  color: black;
+}
+
+.form-box {
+  background-color: rgba(0, 0, 0, 0.4);
+  margin: auto auto;
+  padding: 40px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #000;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 400px;
+  height: 600px;
+}
+.form-box:before {
+
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  content: "";
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+  display: block;
+  filter: blur(2px);
+}
+.form-box .header-text {
+  font-size: 32px;
+  font-family: Georgia;
+  font-weight: 600;
+  color: #333300;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.box{
+  padding: 10px;
+  vertical-align: middle;
+}
+
+label {
+  font-family: poppins;
+  font-size: 1.2rem;
+  padding-right: 10px 15px;
+  color: #fff;
+}
+
+.label {
+  font-family: poppins;
+  font-size: .9rem;
+  padding-right: 10px 15px;
+  color: #fff;
+}
+.checkbox{
+  font-size: 0.9rem;
+  font-family: poppins;
+  color: #fff;
+	
+}
+h3{
+
+  color:#fff000 ;
+  font-family: poppins;
+}
+
+input{
+  background-color: rgba(127, 127, 0, .5);
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  width: 100%;
+  padding: 10px;
+  font-family: poppins;
+  color: #fff;
+  border-radius: 5px;
+
+}
+input{
+  background-color: rgba(127, 127, 0, .5);
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  width: 100%;
+  padding: 10px;
+  font-family: poppins;
+  color: #fff;
+  border-radius: 5px;
+
+}
+textarea{
+  background-color: rgba(127, 127, 0, .5);
+  border: none;
+  outline: none;
+  width: 100%;
+  font-size: 1rem;
+  padding: 10px;
+  font-family: poppins;
+  color: #fff;
+  border-radius: 5px;
+
+}
+
+select {
+  background-color: rgba(127, 127, 0, .5);
+  border: none;
+  outline: none;
+  width: 100%;
+  font-size: 1rem;
+  padding: 10px;
+  font-family: poppins;
+  color: #fff;
+  border-radius: 5px;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #fff;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #fff;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #fff;
+}
+
+.form-box button {
+  background-color: #333300;
+  color: #fff;
+  border: none;
+  font-family: poppins;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 800px;
+  font-size: 18px;
+  padding: 10px;
+  margin: 20px 0px;
+}
+span a {
+  color: #BBB;
+}
+
+  
+  </style>
+  
+</head>
+<body>
+
+  <div class="navbar">
+    <a href="http://127.0.0.1:5000/">Home</a>
+    <a href="institute.html">Institutes</a>
+    <a href="about.html">About Us</a>
+    <a href="contact.html">Contact</a>
+  </div>
+
+  <div class="background">
+    <div class="container">
+  
+        <form class="form-box" name="form-box" method="post">
+            <div class="header-text">
+                Contact Us
+            </div>
+            <label for="duration" style="display:block;">Name </label><br>
+            <input type="text" id="name" class="input" required><br><br>
+
+            <label for="duration" style="display:block;">Email </label><br>
+            <input type="text" id="email" class="input" required><br><br>
+
+            <label for="message" style="display:block;">Message </label><br>
+            <textarea type="text"  id="message" cols="30" rows="10" class="input" required></textarea><br><br><br>
+
+            <input type="button" value="Send Email" class="button" onclick="sendEmail()"/>
+        </form>
+
+        <script type="text/javascript">
+          
+          function sendEmail(){
+
+
+            Email.send({
+              Host : "smtp.elasticemail.com",
+              Username : "abrarmunawfer222@gmail.com",
+              Password : "",
+              To : 'abrarmunawfer222@gmail.com',
+              From : "abrarmunawfer222@gmail.com",
+              Subject : "This is the subject",
+              Body : "Name: " + document.getElementById('name').value + "<br>Email: " + document.getElementById('email').value + "<br>Message: " + document.getElementById('message').value
+          }).then(
+            message => alert("The Message sent Successfully")
+          );
+
+            }
+
+        </script>
+    </div>
+  </div>
+</body>
+</html>

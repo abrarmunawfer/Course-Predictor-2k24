@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="stylesheet" href="static/styles.css">
+  <title>Predict AI</title>
+</head>
+<body>
+
+  <div class="navbar">
+    <a href="http://127.0.0.1:5000/">Home</a>
+    <a href="static/institute.html">Institutes</a>
+    <a href="static/about.html">About Us</a>
+    <a href="static/contact.html">Contact</a>
+  </div>
+
+  <div class="background">
+    <div class="container">
+        <form class="form-box" action="/" method="POST">
+          <div class="header-text">
+            Course Prediction
+          </div>
+          <div class="box" style="float: right;"> 
+      			  <label> Type</label><br><br>		
+      			
+      			  <input type="checkbox" id="course" name="types" value="course" class="checkbox">
+      			  <label for="course" class="label">Course</label><br>
+      			  
+      			  <input type="checkbox" id="specializations" name="types" value="specializations" class="checkbox">
+      			  <label for="specializations" class="label">Specializations</label><br>
+      			  
+      			  <input type="checkbox" id="professional" name="types" value="professional" class="checkbox">
+      			  <label for="professional" class="label">Professional Certificates</label><br>
+      			  
+      			  <input type="checkbox" id="guided" name="types" value="guided" class="checkbox">
+      			  <label for="guided" class="label">Guided Project</label><br>
+      			  
+      			  <input type="checkbox" id="none" name="types" value="none" class="checkbox">
+      			  <label for="none" class="label">None</label><br>
+
+              <div class="box"> 
+
+                    <label for="level" style="display:block;">Level </label>
+
+                    <select name="level" id="level" class="input" required>
+                      <option value="beginner">Beginner Level</option>
+                      <option value="intermediate">Intermediate Level</option>
+                      <option value="advanced">Advanced Level</option>
+                      <option value="none">None</option>
+              
+                    </select>
+              </div>
+
+              <label for="duration" style="display:block;">Level </label>
+              <input type="text" name="duration" class="input" required>
+          </div>
+
+          <div class="box" style="float:left;"> 
+          			  <label>O/L Qualification</label><br><br>		
+          			
+          			  <input type="checkbox" id="OL Passes 0" name="qualification" value="OL Passes 0" class="checkbox" >
+          			  <label for="OL Passes 0" class="label">OL Passes None</label><br>
+          			  
+          			  <input type="checkbox" id="OL Passes 5" name="qualification" value="OL Passes 5" class="checkbox" >
+          			  <label for="OL Passes 5" class="label">OL Passes 5</label><br>
+          			  
+          			  <input type="checkbox" id="OL Passes 9" name="qualification" value="OL Passes 9" class="checkbox" >
+          			  <label for="OL Passes 9" class="label">OL Passes 9</label><br>
+          			  
+          			  
+
+                <div class="box"> 
+
+                    <label for="category" style="display:block;">Category </label>
+
+                    <select name="category" id="category" class="input" required>
+                      <option value="Business Essentials">Business Essentials</option>
+                      <option value="Cloud Computing">Cloud Computing</option>
+                      <option value="Computer Security and Networks">Computer Security and Networks</option>
+                      <option value="Data Analysis">Data Analysis</option>
+                      <option value="design">Design and Product</option>
+                      <option value="Environmental Science and Sustainability">Environmental Science and Sustainability</option>
+                      <option value="Machine Learning">Machine Learning</option>
+                      <option value="Math and Logic">Math and Logic</option>
+                      <option value="Networking">Networking</option>
+                      <option value="Physics and Astronomy">Physics and Astronomy</option>
+                      <option value="Support and Operations">Support and Operations</option>
+                      <option value="Other">Other</option>
+                    </select>
+                </div>
+
+                <label>A/L Qualification</label><br><br>
+                <input type="checkbox" id="AL Passes 0" name="qualification2" value="AL Passes 0" class="checkbox" >
+                <label for="AL Passes 0" class="label">AL Passes None</label>
+                  
+                <input type="checkbox" id="AL Passes 3" name="qualification2" value="AL Passes 3" class="checkbox" >
+                <label for="AL Passes 3" class="label">AL Passes 3</label><br>
+          </div>
+           
+          <input type="submit" value="Predict Course" class="button">
+
+
+
+          <h3> Course : {{ pred }}</p></h3>
+        </form>
+    </div>
+  </div>
+
+<!-- <script>
+        // Function to update the predicted value and additional value
+        function updateValues() {
+            // Get the predicted value from your prediction
+            var predictedValue = {{ pred }};
+
+            // Get the additional value
+            //var additionalValue = /* Get your additional value */;
+
+            // Update the HTML elements with the new values
+            document.getElementById('demo').textContent = predictedValue;
+            //document.getElementById('additional').textContent = additionalValue;
+        }
+    </script> -->
+  <!-- <script src="static/script.js"></script> -->
+</body>
+</html>
